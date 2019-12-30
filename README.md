@@ -8,7 +8,15 @@ API's: requests, smtplib, BeautifulSoup
 
 ![](Capture3.PNG)
 
+
+
+
+
+
+For testing purposes, I used my alternate e-mail as the host to send information and my school e-mail as the target destination.
+
+
 ![](Capture.PNG)
 
 
-![](Captur2.PNG)
+![](Capture2.PNG)
